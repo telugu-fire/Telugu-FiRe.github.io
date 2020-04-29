@@ -1,7 +1,7 @@
 ## Financial Independence - Telugu Community
 
 ### Work is great when you don't do it for money (డబ్బు కోసం చేయనప్పుడు మీరు పనిని ఆనందిస్తారు)
-![alt text](https://github.com/telugu-fire/Telugu-FiRe.github.io/blob/master/concrete-jungle.jpg "")
+https://github.com/telugu-fire/Telugu-FiRe.github.io/blob/master/concrete-jungle.jpg
 
 ఈ రోజుల్లో మనలో చాలా మంది కాంక్రీట్ అరణ్యాలలో (కాస్మోపాలిటన్ నగరాలు) ఉదయం 9 నుండి సాయంత్రం 5 గంటల వరకు ఉద్యోగాల రేసులో పాల్గొంటున్నాము. నేను 26 ఏళ్ళ వయసులో ముందస్తు పదవీ విరమణ (Early Retirement) ఆలోచన గురించి తెలుసుకున్నాను, నా సహచరులు / స్నేహితులు మరియు కుటుంబ సభ్యులలో చాలామందికి ఈ ఐడియా అర్ధం కాలేదుు. కాబట్టి నా అనుభవాలు మరియు నేను సేకరించిన సమాచారం స్నేహితులు మరియు కుటుంబ సభ్యులతో కమ్యూనికేట్ చేయడానికి ఈ బ్లాగును రాయాలని నిర్ణయించుకున్నాను.
 
